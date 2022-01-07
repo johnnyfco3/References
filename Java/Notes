@@ -1,0 +1,5 @@
+To run java programs:
+compile first: 
+- javac name.java
+then run: 
+- java name
