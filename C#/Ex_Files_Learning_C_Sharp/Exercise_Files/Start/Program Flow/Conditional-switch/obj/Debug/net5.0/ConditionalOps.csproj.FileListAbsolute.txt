@@ -1,0 +1,15 @@
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.csproj.AssemblyReference.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.AssemblyInfoInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.AssemblyInfo.cs
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.csproj.CoreCompileInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.deps.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.runtimeconfig.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.runtimeconfig.dev.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ref/ConditionalOps.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/bin/Debug/net5.0/ConditionalOps.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ref/ConditionalOps.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Conditional-switch/obj/Debug/net5.0/ConditionalOps.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.deps.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.dev.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/bin/Debug/net5.0/ref/Comments.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/bin/Debug/net5.0/Comments.xml
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.AssemblyReference.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfoInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfo.cs
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.CoreCompileInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/ref/Comments.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/Comments/obj/Debug/net5.0/Comments.genruntimeconfig.cache

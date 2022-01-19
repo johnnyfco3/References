@@ -1,0 +1,15 @@
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.AssemblyReference.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfoInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfo.cs
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.deps.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.dev.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/ref/Exceptions.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/ref/Exceptions.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.genruntimeconfig.cache

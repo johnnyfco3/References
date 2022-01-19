@@ -1,0 +1,15 @@
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.deps.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.dev.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ref/ForLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.AssemblyReference.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfoInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfo.cs
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ref/ForLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.genruntimeconfig.cache

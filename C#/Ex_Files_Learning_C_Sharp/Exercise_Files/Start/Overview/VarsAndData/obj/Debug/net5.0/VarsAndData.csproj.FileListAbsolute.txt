@@ -1,0 +1,15 @@
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.deps.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.dev.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/bin/Debug/net5.0/ref/VarsAndData.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.AssemblyReference.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfo.cs
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/ref/VarsAndData.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.genruntimeconfig.cache

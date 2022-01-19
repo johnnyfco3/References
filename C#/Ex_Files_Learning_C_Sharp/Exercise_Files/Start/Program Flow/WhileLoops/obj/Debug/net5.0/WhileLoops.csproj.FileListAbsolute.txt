@@ -1,0 +1,15 @@
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.deps.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.dev.json
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/ref/WhileLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfo.cs
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/ref/WhileLoops.dll
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.pdb
+/Users/johnnytejada/Documents/References/C#/Ex_Files_Learning_C_Sharp/Exercise_Files/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.genruntimeconfig.cache
