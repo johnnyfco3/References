@@ -1,0 +1,61 @@
+Select Statements:
+SELECT  * FROM people WHERE state_code='CA';
+
+SELECT first_name, last_name, team FROM people
+WHERE state_code='CA' AND shirt_or_hat='shirt' AND team != 'Angry Ants';
+
+SELECT first_name, last_name, team FROM people
+WHERE state_code='CA' OR shirt_or_hat='shirt' AND team = 'Angry Ants';
+SELECT first_name, last_name, team FROM people
+WHERE (state_code='CA' OR shirt_or_hat='shirt') AND team = 'Angry Ants';
+
+SELECT * FROM people WHERE state_code LIKE 'C%';       - any state code that starts with C
+SELECT * FROM people WHERE first_name LIKE '%ON%';     - any name that consists of 'on' not case sensitive
+SELECT * FROM people WHERE first_name LIKE '%ON';      - end in "on"
+
+SELECT * FROM people WHERE first_name LIKE '%ON' LIMIT 10;      - only 10 display
+SELECT * FROM people WHERE first_name LIKE '%ON' 
+LIMIT 10 OFFSET 5;                                     - first 5 doesn't show: only 6-15
+
+SELECT first_name FROM people ORDER BY first_name;     - sorted alphabetically
+SELECT first_name FROM people ORDER BY first_name DESC;
+SELECT state_code, last_name, first_name FROM people 
+ORDER BY state_code, last_name;
+SELECT state_code, last_name, first_name FROM people 
+ORDER BY state_code, last_name DESC;                   - only last name is descended
+
+SELECT first_name, LENGTH(first_name) FROM people;
+SELECT DISTINCT (first_name) FROM people;
+SELECT COUNT(state_code) WHERE state_code='CA';
+
+JOIN Statements:
+SELECT first_name, state_code FROM people
+JOIN states ON people.state_code = states.state_abbrev;
+
+SELECT people.first_name, people.state_code, states.division FROM people
+JOIN states ON people.state_code = states.state_abbrev;
+
+SELECT * FROM people JOIN states ON people.state_code=states.state_abbrev 
+WHERE people.first_name LIKE 'J%' AND states.region='South';
+
+SELECT ppl.first_name, st.state_name FROM people ppl, states st
+WHERE ppl.state_code=st.state_abbrev;
+
+*LEFT JOIN gets all data of left table. vice versa (RIGHT JOIN).
+*FULL OUTER JOIN all data from both tables (sometimes not supported by all sql)
+
+SELECT first_name, COUNT(first_name) FROM people GROUP BY first_name;   - counts and displays count of names
+SELECT state_code, points, COUNT(points) FROM people GROUP BY state_code, points;
+
+1. SELECT state_code, shirt_or_hat, COUNT(shirt_or_hat) FROM people
+GROUP BY state_code, shirt_or_hat;
+    Answer: SELECT states.state_name, COUNT(people.shirt_or_hat) FROM states
+            JOIN people ON states.state_abbrev=people.state_code
+            WHERE people.shirt_or_hat='hat'
+            GROUP BY people.shirt_or_hat, states.state_name
+
+2. SELECT states.division, people.team, COUNT(people.first_name) FROM people
+JOIN states ON people.state_code=states.state_abbrev;
+    Answer: SELECT states.division, people.team, COUNT(people.team) FROM people
+            JOIN states ON people.state_code=states.state_abbrev
+            GROUP BY states.division, people.team;

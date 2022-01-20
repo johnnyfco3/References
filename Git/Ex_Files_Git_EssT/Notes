@@ -1,0 +1,33 @@
+git init                                - initializes git
+ls -la                                  - shows whats in directory
+
+Fundamentals:
+git add .   / git add [name.txt]        - adds what is in directory
+git commit -m "Initial commit"          - commits to repository
+
+View Commit log:
+git log
+git help log 
+git log -n 5                            - limits number of commits to just 5. 5 most recent
+git log --since=2019-01-01
+git log --until=2019-01-01
+git log --author="Johnny"
+git log --grep="Init"                   - global search for regular expression
+
+The Three Tree Architecture:
+repository, staging, working
+
+git status                              - status of everyhting
+
+q                                       - to exit log
+
+View changes:
+git diff
+git diff --staged                       - also --cached works too
+
+Delete files:
+git rm name.txt
+
+Rename or Move files:
+git mv secondfile.txt secondary.txt
+git mv thirdfile.txt First_Folder/thirdfile.txt
