@@ -1,0 +1,4 @@
+initiate: tsc app.ts
+compile: tsc -w app.ts 
+with tsconfig.json: tsc -w 
+
